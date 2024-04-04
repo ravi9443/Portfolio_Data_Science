@@ -509,15 +509,15 @@ btn-box.btns a::before{
 } */
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span{
-    width: 65%;
-}
-
-.skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
     width: 70%;
 }
 
+.skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
+    width: 65%;
+}
+
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
-    width: 80%;
+    width: 60%;
 }
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span{
     width: 40%;
@@ -526,7 +526,7 @@ btn-box.btns a::before{
 
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
-    width: 40%;
+    width: 70%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span{
@@ -534,11 +534,11 @@ btn-box.btns a::before{
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span{
-    width: 50%;
+    width: 55%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span{
-    width: 50%;
+    width: 40%;
 }
 
 
